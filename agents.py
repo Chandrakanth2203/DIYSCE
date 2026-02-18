@@ -72,13 +72,13 @@ user_details_agent = Agent(
 )
 
 """
-Agent-3: Critical Thinker Agent
+Agent-3: Problem Solving Agent
 Defines the agent that analyzes the caller's issue and user details to provide critical insights and gives the recommendations on how to resolve the issue
 """
 
 # Define the Get User Details Agent
 problem_solver = Agent(
-    role="Critical Thinker Agent",
+    role=" Problem Solving Agent",
     goal="Understand the caller's issue and user details to provide critical insights and recommendations on how to resolve the issue",
     backstory="""You are a problem solver agent who excels at understanding the issue summary and providing precise steps to resolve the issue.
      You analyze the issue details and user information to give actionable recommendations to customer service agents.""",

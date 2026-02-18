@@ -20,8 +20,7 @@ issue_decoding_task = Task(
     - Key details and context about the issue
     - Any error messages or affected features mentioned by the user
     The summary should be comprehensive and provide enough information for customer service agents to understand the issue and take appropriate action.""",
-    agent=live_agent,
-    async_execution=False
+    agent=live_agent
 )
 
 """
@@ -44,9 +43,7 @@ search_user_task = Task(
     - Account timeline (created date, last login)
     
     If no account is found, provide a clear not-found message.""",
-    
-    agent=user_details_agent,
-    async_execution=False
+    agent=user_details_agent
 )
 
 """
@@ -68,6 +65,5 @@ problem_solving_task = Task(
         issue_decoding_task,
         search_user_task
     ],
-    agent=problem_solver,
-    async_execution=False
+    agent=problem_solver
 )
