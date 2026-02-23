@@ -1,0 +1,17 @@
+Login Module
+
+Decsiption - On entering valid credentials, user logs into their account
+
+Fields : 
+
+UserID - email ID
+Password - Password
+
+Forgot Password - sends email to the user to reset Password
+
+Add Credits Module
+
+Account gets locked if the credits are zero and gets unlocked once credits are added. 
+Login might get impacted due to insufficient credits.
+
+

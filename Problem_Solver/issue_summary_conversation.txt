@@ -1,0 +1,1 @@
+The main problem identified is that the caller, Chandrakanth Yarlagadda, is unable to access his account because it is locked. The issue has persisted since the morning. The caller provided his name, date of birth (22 March 1996), and mobile number (9894582770) for authentication. No specific error messages or affected features were mentioned beyond the account being locked.

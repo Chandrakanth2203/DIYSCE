@@ -1,0 +1,27 @@
+**Critical Insights:**
+
+1. **Account Lock Issue:** The user's account is locked, which is directly related to having zero credits in their account. This is a built-in feature of the system to prevent access when credits are depleted.
+
+2. **No Error Messages:** The absence of specific error messages or affected features suggests that the lock is purely due to the credit issue, rather than a technical glitch or incorrect login credentials.
+
+**Actionable Recommendations:**
+
+1. **Add Credits to Account:**
+   - The primary step to unlock the account is to add credits. This can be done through the platform's credit purchase or addition feature.
+   - Guide the user to navigate to the "Add Credits" section of the platform.
+
+2. **Steps to Add Credits:**
+   - Log in to the platform using the registered email ID and password.
+   - If unable to log in due to the lock, use the "Forgot Password" feature to reset the password and attempt to log in again.
+   - Once logged in, go to the "Add Credits" module.
+   - Follow the prompts to purchase or add the required amount of credits to the account.
+
+3. **Post Credit Addition:**
+   - After adding credits, the account should automatically unlock.
+   - If the account remains locked after adding credits, contact customer support for further assistance.
+
+4. **Preventive Measures:**
+   - Regularly monitor credit levels to prevent future lockouts.
+   - Set up notifications or reminders to add credits before they run out.
+
+By following these steps, the user should be able to resolve the account lock issue without needing further assistance from customer support.
